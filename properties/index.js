@@ -26,18 +26,18 @@ module.exports = {
     suggestions: ["How do I check in?", "Is there a washer/dryer?", "Is there air conditioning?", "What's in the kitchen?"],
   },
 
- "antonie-montreal": {
+    "antonie-montreal": {
     propertyName: "Downtown MTL Loft with Parking",
     address: "Downtown Montreal, Quebec (near Schwartz's Deli)",
     hostName: "Antonie",
-    checkIn: "Self check-in via lockbox — code sent before arrival",
+    checkIn: "Self check-in via lockbox — code sent before arrival, after 4:00 PM",
     checkOut: "11:00 AM",
     wifiName: "Ask host — provided on arrival",
     wifiPassword: "Ask host — provided on arrival",
     houseRules:
-      "Self check-in only, no host interaction required unless needed. There are exterior security cameras monitoring the building's exit doors from outside — there are NO cameras inside the loft itself. Note: this unit does not have a carbon monoxide alarm (the host has indicated it isn't required for this property, but guests can reach out with any questions). Long-term stays of 28+ days are allowed.",
+      "Check-in after 4:00 PM, checkout before 11:00 AM. Maximum 12 guests. No pets, no parties or events, no smoking. Only guests listed on the reservation are permitted — any unlisted guest or visitor not reported prior to arrival will be charged $50/person/day for the entire length of the stay. Self check-in only, no host interaction required unless needed. There are exterior security cameras monitoring the building's exit doors from outside — there are NO cameras inside the loft itself. Note: this unit does not have a carbon monoxide alarm (the host has indicated it isn't required for this property, but guests can reach out with any questions). Long-term stays of 28+ days are allowed.",
     localTips:
-      "Walking distance to some of Montreal's best restaurants — the world-famous Schwartz's Deli is just a few steps away. Located in one of Montreal's most vibrant, walkable downtown neighbourhoods with lots of dining and things to explore nearby.",
+      "Walking distance to some of Montreal's best restaurants — the world-famous Schwartz's Deli is just a few steps away. Located in one of Montreal's most vibrant, walkable downtown neighbourhoods with lots of dining, shopping, and nightlife nearby. Metro Sherbrooke (orange line) is about 8 minutes away, and Metro Saint-Laurent (green line) is a 10 minute walk. Mount Royal, Old Port, Downtown, and the Plateau are all a short walk or taxi ride away. Nearby favorites include Ice House (Tex Mex, 51 Rue Roy Est), Shaker (cocktails, 3518 Saint-Laurent), Pamplemousse (bar, 1579 Saint-Laurent), Agrikol (Haitian, 1844 Rue Amherst), The Dumpling Hut (3591 Clark), Le Cathcart (restaurant and biergarten, 1 Place Ville Marie), Joe Beef (2491 Notre Dame W), and Pumpui (Thai, 83 Saint-Zotique Est), among others.",
     extraNotes:
       "Superhost, 7 years hosting, 4.85 stars over 447 reviews — a Guest Favourite. Entire loft, extra spacious, sleeps up to 12 guests across 3 bedrooms and 4 beds, 1 bathroom. Free parking on premises plus free street parking. Full kitchen: fridge, freezer, stove, oven, microwave, dishes/silverware, cooking basics, baking sheet, dining table, coffee maker (pour-over), hot water kettle, toaster, wine glasses. Washer and dryer in-unit. Air conditioning and heating both available. TV with standard cable. Dedicated workspace for remote work. Private entrance. Bathroom stocked with hair dryer, shampoo, conditioner, body soap, shower gel. Bedroom essentials: towels, bed sheets, extra pillows/blankets, room-darkening shades, iron, clothing storage, hangers. Smoke alarm and first aid kit on site — no carbon monoxide alarm.",
     suggestions: ["How do I check in?", "Is there parking?", "What's in the kitchen?", "Are there security cameras?"],
