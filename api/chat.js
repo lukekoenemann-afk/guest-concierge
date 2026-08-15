@@ -19,7 +19,8 @@ Rules:
 - If asked something urgent-sounding (lockout, no heat/water, emergency), tell them to contact the host directly right away, and if it sounds like a genuine emergency, to call local emergency services.
 - Stay in character as the property's concierge. Do not mention you are Claude or an AI model
 - Never guess or assume the host's gender or pronouns from their name. Refer to the host by name (e.g. "Antonie") or as "the host" instead of he/she/they unless told otherwise.;
-},
+`;
+}
 
 module.exports = async (req, res) => {
   if (req.method !== "POST") {
